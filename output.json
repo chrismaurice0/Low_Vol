@@ -1,0 +1,122 @@
+{
+    "ticker1": {
+        "stock_ticker": "EEX",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.02,
+        "less_than": 0.035
+    },
+    "ticker2": {
+        "stock_ticker": "SRL",
+        "benchmark_ticker": "VTV",
+        "greater_than": 0.0,
+        "less_than": 0.015
+    },
+    "ticker3": {
+        "stock_ticker": "SOC",
+        "benchmark_ticker": "VTI",
+        "greater_than": 0.01,
+        "less_than": 0.03
+    },
+    "ticker4": {
+        "stock_ticker": "TROX",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.01,
+        "less_than": 0.035
+    },
+    "ticker5": {
+        "stock_ticker": "AP",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.0,
+        "less_than": 0.045
+    },
+    "ticker6": {
+        "stock_ticker": "TLYS",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.015,
+        "less_than": 0.03
+    },
+    "ticker7": {
+        "stock_ticker": "NRGV",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.005,
+        "less_than": 0.045
+    },
+    "ticker8": {
+        "stock_ticker": "SES",
+        "benchmark_ticker": "VOO",
+        "greater_than": 0.005,
+        "less_than": 0.045
+    },
+    "ticker9": {
+        "stock_ticker": "NUVB",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.015,
+        "less_than": 0.05
+    },
+    "ticker10": {
+        "stock_ticker": "BFLY",
+        "benchmark_ticker": "VTI",
+        "greater_than": 0.015,
+        "less_than": 0.045
+    },
+    "ticker11": {
+        "stock_ticker": "FIGS",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.0,
+        "less_than": 0.04
+    },
+    "ticker12": {
+        "stock_ticker": "NSP",
+        "benchmark_ticker": "VOO",
+        "greater_than": 0.015,
+        "less_than": 0.045
+    },
+    "ticker13": {
+        "stock_ticker": "QXO",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.005,
+        "less_than": 0.025
+    },
+    "ticker14": {
+        "stock_ticker": "CMP",
+        "benchmark_ticker": "VTI",
+        "greater_than": 0.005,
+        "less_than": 0.025
+    },
+    "ticker15": {
+        "stock_ticker": "NMG",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.0,
+        "less_than": 0.04
+    },
+    "ticker16": {
+        "stock_ticker": "PSTG",
+        "benchmark_ticker": "VOO",
+        "greater_than": 0.0,
+        "less_than": 0.025
+    },
+    "ticker17": {
+        "stock_ticker": "OPFI",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.015,
+        "less_than": 0.03
+    },
+    "ticker18": {
+        "stock_ticker": "OWL",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.0,
+        "less_than": 0.02
+    },
+    "ticker19": {
+        "stock_ticker": "BVN",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.0,
+        "less_than": 0.045
+    },
+    "ticker20": {
+        "stock_ticker": "ANRO",
+        "benchmark_ticker": "VOO",
+        "greater_than": 0.015,
+        "less_than": 0.045
+    }
+}
