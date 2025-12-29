@@ -1,122 +1,122 @@
 {
     "ticker1": {
-        "stock_ticker": "ASTI",
-        "benchmark_ticker": "VTI",
-        "greater_than": 0.015,
+        "stock_ticker": "PLRZ",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.0,
         "less_than": 0.045
     },
     "ticker2": {
-        "stock_ticker": "SRL",
-        "benchmark_ticker": "VTV",
+        "stock_ticker": "NCI",
+        "benchmark_ticker": "VB",
         "greater_than": 0.0,
-        "less_than": 0.015
+        "less_than": 0.01
     },
     "ticker3": {
-        "stock_ticker": "LICN",
-        "benchmark_ticker": "VTV",
-        "greater_than": 0.0,
-        "less_than": 0.02
+        "stock_ticker": "ASTI",
+        "benchmark_ticker": "VOO",
+        "greater_than": 0.02,
+        "less_than": 0.045
     },
     "ticker4": {
+        "stock_ticker": "NAMI",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.005,
+        "less_than": 0.035
+    },
+    "ticker5": {
+        "stock_ticker": "SLNH",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.005,
+        "less_than": 0.025
+    },
+    "ticker6": {
         "stock_ticker": "SOC",
         "benchmark_ticker": "IWM",
         "greater_than": 0.015,
         "less_than": 0.04
     },
-    "ticker5": {
+    "ticker7": {
+        "stock_ticker": "NXTT",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.0,
+        "less_than": 0.03
+    },
+    "ticker8": {
         "stock_ticker": "GEOS",
         "benchmark_ticker": "VB",
         "greater_than": 0.005,
         "less_than": 0.035
     },
-    "ticker6": {
+    "ticker9": {
         "stock_ticker": "GRWG",
         "benchmark_ticker": "VB",
         "greater_than": 0.02,
         "less_than": 0.025
     },
-    "ticker7": {
-        "stock_ticker": "AMPGW",
-        "benchmark_ticker": "XLE",
-        "greater_than": 0.015,
-        "less_than": 0.045
-    },
-    "ticker8": {
-        "stock_ticker": "BOLT",
+    "ticker10": {
+        "stock_ticker": "SELX",
         "benchmark_ticker": "VB",
+        "greater_than": 0.03,
+        "less_than": 0.05
+    },
+    "ticker11": {
+        "stock_ticker": "BOLT",
+        "benchmark_ticker": "IWM",
         "greater_than": 0.005,
         "less_than": 0.015
     },
-    "ticker9": {
+    "ticker12": {
         "stock_ticker": "FLNT",
         "benchmark_ticker": "TLT",
-        "greater_than": 0.01,
+        "greater_than": 0.0,
         "less_than": 0.035
     },
-    "ticker10": {
+    "ticker13": {
         "stock_ticker": "KSCP",
-        "benchmark_ticker": "VOO",
+        "benchmark_ticker": "VTI",
         "greater_than": 0.005,
         "less_than": 0.025
     },
-    "ticker11": {
+    "ticker14": {
         "stock_ticker": "AXG",
         "benchmark_ticker": "VB",
         "greater_than": 0.015,
         "less_than": 0.025
     },
-    "ticker12": {
+    "ticker15": {
         "stock_ticker": "BOF",
-        "benchmark_ticker": "IWM",
+        "benchmark_ticker": "VTI",
         "greater_than": 0.0,
         "less_than": 0.015
     },
-    "ticker13": {
+    "ticker16": {
         "stock_ticker": "AXTI",
-        "benchmark_ticker": "XLF",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.03,
+        "less_than": 0.045
+    },
+    "ticker17": {
+        "stock_ticker": "ELVR",
+        "benchmark_ticker": "VTI",
+        "greater_than": 0.02,
+        "less_than": 0.035
+    },
+    "ticker18": {
+        "stock_ticker": "XCH",
+        "benchmark_ticker": "TLT",
         "greater_than": 0.015,
         "less_than": 0.05
     },
-    "ticker14": {
-        "stock_ticker": "LNZA",
-        "benchmark_ticker": "XLE",
-        "greater_than": 0.01,
-        "less_than": 0.025
-    },
-    "ticker15": {
-        "stock_ticker": "ELVR",
-        "benchmark_ticker": "XLF",
-        "greater_than": 0.015,
-        "less_than": 0.03
-    },
-    "ticker16": {
+    "ticker19": {
         "stock_ticker": "BHVN",
         "benchmark_ticker": "VB",
         "greater_than": 0.0,
         "less_than": 0.015
     },
-    "ticker17": {
-        "stock_ticker": "AP",
-        "benchmark_ticker": "VTV",
-        "greater_than": 0.005,
-        "less_than": 0.04
-    },
-    "ticker18": {
-        "stock_ticker": "ADXN",
-        "benchmark_ticker": "VB",
-        "greater_than": 0.015,
-        "less_than": 0.05
-    },
-    "ticker19": {
-        "stock_ticker": "CRDF",
-        "benchmark_ticker": "XLE",
-        "greater_than": 0.0,
-        "less_than": 0.02
-    },
     "ticker20": {
-        "stock_ticker": "FBGL",
-        "benchmark_ticker": "VOO",
-        "greater_than": 0.0,
-        "less_than": 0.035
+        "stock_ticker": "PRSO",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.01,
+        "less_than": 0.04
     }
 }
