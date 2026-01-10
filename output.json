@@ -1,0 +1,50 @@
+{
+    "ticker1": {
+        "stock_ticker": "ACHR",
+        "benchmark_ticker": "VTI",
+        "greater_than": 0.035,
+        "less_than": 0.045
+    },
+    "ticker2": {
+        "stock_ticker": "AEO",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.005,
+        "less_than": 0.015
+    },
+    "ticker3": {
+        "stock_ticker": "AES",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.015,
+        "less_than": 0.035
+    },
+    "ticker4": {
+        "stock_ticker": "ABBV",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.015,
+        "less_than": 0.045
+    },
+    "ticker5": {
+        "stock_ticker": "AA",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.0,
+        "less_than": 0.04
+    },
+    "ticker6": {
+        "stock_ticker": "ABEV",
+        "benchmark_ticker": "XLE",
+        "greater_than": 0.01,
+        "less_than": 0.025
+    },
+    "ticker7": {
+        "stock_ticker": "ABT",
+        "benchmark_ticker": "XLE",
+        "greater_than": 0.005,
+        "less_than": 0.015
+    },
+    "ticker8": {
+        "stock_ticker": "ADT",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.0,
+        "less_than": 0.01
+    }
+}
