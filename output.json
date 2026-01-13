@@ -1,45 +1,45 @@
 {
     "ticker1": {
-        "stock_ticker": "ASTI",
-        "benchmark_ticker": "VTI",
+        "stock_ticker": "CNCK",
+        "benchmark_ticker": "XLE",
+        "greater_than": 0.0,
+        "less_than": 0.045
+    },
+    "ticker2": {
+        "stock_ticker": "MU",
+        "benchmark_ticker": "IWM",
         "greater_than": 0.015,
         "less_than": 0.05
     },
-    "ticker2": {
-        "stock_ticker": "EQ",
+    "ticker3": {
+        "stock_ticker": "VSME",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.005,
+        "less_than": 0.04
+    },
+    "ticker4": {
+        "stock_ticker": "XELB",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.005,
+        "less_than": 0.045
+    },
+    "ticker5": {
+        "stock_ticker": "ELPW",
         "benchmark_ticker": "VTV",
         "greater_than": 0.015,
         "less_than": 0.04
     },
-    "ticker3": {
-        "stock_ticker": "IONR",
-        "benchmark_ticker": "IWM",
-        "greater_than": 0.01,
-        "less_than": 0.035
-    },
-    "ticker4": {
-        "stock_ticker": "ELPW",
-        "benchmark_ticker": "VTV",
-        "greater_than": 0.025,
-        "less_than": 0.04
-    },
-    "ticker5": {
+    "ticker6": {
         "stock_ticker": "KALA",
         "benchmark_ticker": "IWM",
         "greater_than": 0.02,
         "less_than": 0.03
     },
-    "ticker6": {
-        "stock_ticker": "HOVR",
-        "benchmark_ticker": "TLT",
-        "greater_than": 0.025,
-        "less_than": 0.045
-    },
     "ticker7": {
-        "stock_ticker": "IMCC",
-        "benchmark_ticker": "XLF",
-        "greater_than": 0.015,
-        "less_than": 0.03
+        "stock_ticker": "STSS",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.01,
+        "less_than": 0.04
     },
     "ticker8": {
         "stock_ticker": "HUBC",
@@ -54,10 +54,10 @@
         "less_than": 0.045
     },
     "ticker10": {
-        "stock_ticker": "KXIN",
+        "stock_ticker": "IONR",
         "benchmark_ticker": "IWM",
-        "greater_than": 0.0,
-        "less_than": 0.045
+        "greater_than": 0.01,
+        "less_than": 0.035
     },
     "ticker11": {
         "stock_ticker": "ELWS",
@@ -66,117 +66,117 @@
         "less_than": 0.015
     },
     "ticker12": {
-        "stock_ticker": "ALAB",
-        "benchmark_ticker": "VTI",
+        "stock_ticker": "VCIG",
+        "benchmark_ticker": "IWM",
         "greater_than": 0.0,
-        "less_than": 0.045
+        "less_than": 0.04
     },
     "ticker13": {
-        "stock_ticker": "RCAT",
-        "benchmark_ticker": "XLK",
-        "greater_than": 0.03,
-        "less_than": 0.045
+        "stock_ticker": "NVA",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.005,
+        "less_than": 0.04
     },
     "ticker14": {
+        "stock_ticker": "KOD",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.01,
+        "less_than": 0.025
+    },
+    "ticker15": {
         "stock_ticker": "AISP",
         "benchmark_ticker": "XLV",
         "greater_than": 0.01,
         "less_than": 0.03
     },
-    "ticker15": {
-        "stock_ticker": "PGEN",
-        "benchmark_ticker": "XLV",
+    "ticker16": {
+        "stock_ticker": "RAPT",
+        "benchmark_ticker": "VTI",
         "greater_than": 0.005,
         "less_than": 0.04
     },
-    "ticker16": {
+    "ticker17": {
+        "stock_ticker": "JZXN",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.0,
+        "less_than": 0.035
+    },
+    "ticker18": {
         "stock_ticker": "XERS",
         "benchmark_ticker": "TLT",
         "greater_than": 0.0,
         "less_than": 0.035
     },
-    "ticker17": {
-        "stock_ticker": "CING",
-        "benchmark_ticker": "XLE",
-        "greater_than": 0.0,
-        "less_than": 0.035
-    },
-    "ticker18": {
-        "stock_ticker": "AMR",
-        "benchmark_ticker": "IWM",
-        "greater_than": 0.01,
-        "less_than": 0.025
-    },
     "ticker19": {
-        "stock_ticker": "PRLD",
-        "benchmark_ticker": "IWM",
-        "greater_than": 0.02,
-        "less_than": 0.04
-    },
-    "ticker20": {
-        "stock_ticker": "SIFY",
-        "benchmark_ticker": "VTV",
-        "greater_than": 0.0,
-        "less_than": 0.02
-    },
-    "ticker21": {
-        "stock_ticker": "JZXN",
-        "benchmark_ticker": "XLK",
-        "greater_than": 0.015,
-        "less_than": 0.035
-    },
-    "ticker22": {
         "stock_ticker": "LWLG",
         "benchmark_ticker": "VB",
         "greater_than": 0.0,
         "less_than": 0.025
     },
-    "ticker23": {
+    "ticker20": {
         "stock_ticker": "ZURA",
         "benchmark_ticker": "XLK",
         "greater_than": 0.005,
         "less_than": 0.015
     },
-    "ticker24": {
+    "ticker21": {
         "stock_ticker": "SGML",
-        "benchmark_ticker": "VTI",
+        "benchmark_ticker": "VOO",
         "greater_than": 0.0,
-        "less_than": 0.015
+        "less_than": 0.025
     },
-    "ticker25": {
-        "stock_ticker": "TROO",
-        "benchmark_ticker": "VTV",
-        "greater_than": 0.0,
-        "less_than": 0.045
-    },
-    "ticker26": {
-        "stock_ticker": "RGNX",
-        "benchmark_ticker": "XLK",
-        "greater_than": 0.005,
-        "less_than": 0.045
-    },
-    "ticker27": {
+    "ticker22": {
         "stock_ticker": "OPTX",
-        "benchmark_ticker": "XLV",
-        "greater_than": 0.025,
-        "less_than": 0.045
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.015,
+        "less_than": 0.05
     },
-    "ticker28": {
-        "stock_ticker": "MTVA",
-        "benchmark_ticker": "XLK",
-        "greater_than": 0.0,
-        "less_than": 0.015
+    "ticker23": {
+        "stock_ticker": "BIYA",
+        "benchmark_ticker": "VTV",
+        "greater_than": 0.04,
+        "less_than": 0.05
     },
-    "ticker29": {
-        "stock_ticker": "KSCP",
+    "ticker24": {
+        "stock_ticker": "ALAB",
         "benchmark_ticker": "XLK",
         "greater_than": 0.005,
         "less_than": 0.04
     },
-    "ticker30": {
-        "stock_ticker": "FTHM",
-        "benchmark_ticker": "IWM",
+    "ticker25": {
+        "stock_ticker": "AFRM",
+        "benchmark_ticker": "VB",
         "greater_than": 0.01,
-        "less_than": 0.02
+        "less_than": 0.03
+    },
+    "ticker26": {
+        "stock_ticker": "OSRH",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.005,
+        "less_than": 0.03
+    },
+    "ticker27": {
+        "stock_ticker": "KXIN",
+        "benchmark_ticker": "VTV",
+        "greater_than": 0.015,
+        "less_than": 0.025
+    },
+    "ticker28": {
+        "stock_ticker": "VUZI",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.0,
+        "less_than": 0.015
+    },
+    "ticker29": {
+        "stock_ticker": "PGEN",
+        "benchmark_ticker": "VTV",
+        "greater_than": 0.0,
+        "less_than": 0.04
+    },
+    "ticker30": {
+        "stock_ticker": "TLSA",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.015,
+        "less_than": 0.03
     }
 }
