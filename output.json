@@ -1,20 +1,182 @@
 {
     "ticker1": {
-        "stock_ticker": "AA",
-        "benchmark_ticker": "XLF",
-        "greater_than": 0.0,
+        "stock_ticker": "VSME",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.005,
         "less_than": 0.04
     },
     "ticker2": {
-        "stock_ticker": "ABEV",
+        "stock_ticker": "VCIG",
         "benchmark_ticker": "XLE",
+        "greater_than": 0.0,
+        "less_than": 0.045
+    },
+    "ticker3": {
+        "stock_ticker": "POET",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.01,
+        "less_than": 0.02
+    },
+    "ticker4": {
+        "stock_ticker": "KALA",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.02,
+        "less_than": 0.03
+    },
+    "ticker5": {
+        "stock_ticker": "SGML",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.0,
+        "less_than": 0.04
+    },
+    "ticker6": {
+        "stock_ticker": "RZLT",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.01,
+        "less_than": 0.04
+    },
+    "ticker7": {
+        "stock_ticker": "SATS",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.01,
+        "less_than": 0.045
+    },
+    "ticker8": {
+        "stock_ticker": "BIYA",
+        "benchmark_ticker": "VTV",
+        "greater_than": 0.04,
+        "less_than": 0.05
+    },
+    "ticker9": {
+        "stock_ticker": "AFRM",
+        "benchmark_ticker": "VB",
+        "greater_than": 0.01,
+        "less_than": 0.03
+    },
+    "ticker10": {
+        "stock_ticker": "OSRH",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.005,
+        "less_than": 0.03
+    },
+    "ticker11": {
+        "stock_ticker": "AIRE",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.02,
+        "less_than": 0.04
+    },
+    "ticker12": {
+        "stock_ticker": "ALAB",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.005,
+        "less_than": 0.04
+    },
+    "ticker13": {
+        "stock_ticker": "MVIS",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.015,
+        "less_than": 0.04
+    },
+    "ticker14": {
+        "stock_ticker": "SATL",
+        "benchmark_ticker": "IWM",
         "greater_than": 0.01,
         "less_than": 0.025
     },
-    "ticker3": {
-        "stock_ticker": "ABBV",
-        "benchmark_ticker": "XLF",
+    "ticker15": {
+        "stock_ticker": "RVPH",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.04,
+        "less_than": 0.05
+    },
+    "ticker16": {
+        "stock_ticker": "HL",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.01,
+        "less_than": 0.035
+    },
+    "ticker17": {
+        "stock_ticker": "SLS",
+        "benchmark_ticker": "VB",
         "greater_than": 0.0,
+        "less_than": 0.04
+    },
+    "ticker18": {
+        "stock_ticker": "XPEV",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.005,
         "less_than": 0.01
+    },
+    "ticker19": {
+        "stock_ticker": "TMC",
+        "benchmark_ticker": "XLE",
+        "greater_than": 0.03,
+        "less_than": 0.05
+    },
+    "ticker20": {
+        "stock_ticker": "NB",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.005,
+        "less_than": 0.02
+    },
+    "ticker21": {
+        "stock_ticker": "EXK",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.015,
+        "less_than": 0.035
+    },
+    "ticker22": {
+        "stock_ticker": "BTDR",
+        "benchmark_ticker": "XLF",
+        "greater_than": 0.01,
+        "less_than": 0.045
+    },
+    "ticker23": {
+        "stock_ticker": "CGC",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.0,
+        "less_than": 0.015
+    },
+    "ticker24": {
+        "stock_ticker": "PATH",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.02,
+        "less_than": 0.045
+    },
+    "ticker25": {
+        "stock_ticker": "ARRY",
+        "benchmark_ticker": "VTI",
+        "greater_than": 0.0,
+        "less_than": 0.015
+    },
+    "ticker26": {
+        "stock_ticker": "PALI",
+        "benchmark_ticker": "TLT",
+        "greater_than": 0.005,
+        "less_than": 0.025
+    },
+    "ticker27": {
+        "stock_ticker": "UAA",
+        "benchmark_ticker": "XLE",
+        "greater_than": 0.01,
+        "less_than": 0.04
+    },
+    "ticker28": {
+        "stock_ticker": "ABSI",
+        "benchmark_ticker": "XLV",
+        "greater_than": 0.015,
+        "less_than": 0.035
+    },
+    "ticker29": {
+        "stock_ticker": "QXO",
+        "benchmark_ticker": "IWM",
+        "greater_than": 0.01,
+        "less_than": 0.045
+    },
+    "ticker30": {
+        "stock_ticker": "CIFR",
+        "benchmark_ticker": "XLK",
+        "greater_than": 0.005,
+        "less_than": 0.03
     }
 }
